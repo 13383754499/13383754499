@@ -1,9 +1,4 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
-</p>
-
-<p align="center">
     <a href="https://github.com/13383754499">
     <img src="https://github-readme-stats.vercel.app/api?username=13383754499&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
   </a>
